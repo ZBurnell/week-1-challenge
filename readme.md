@@ -10,7 +10,7 @@ To view the webpage from this Repo. Settings>Pages>Visit Site  or Use this websi
 for any questions feel free to email me at zackburnell922@gmail.com
 
 ## Acknowledgment
-Thank you to whoever wrote the base code for this project. It saved me so much time over writing it myself.
+Thank you to whoever wrote the base code for this project. Code was cloned from OSU-VIRT-FSF-PT-08-2023-U-LOLC\01-HTML-Git-CSS\02-Challenge
 
 ## License
 MIT License. License can also be found in the Repo. 
